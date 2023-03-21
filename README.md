@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h1> Hi there 👋 </h1>
 
- I am Eunyoung Kim, a junior web developer! 🌱<br>
+ I am Eunyoung Kim, a Full Stack Developer! 🌱<br>
  living in Barcelona, Spain! 
 <br><br>
 
