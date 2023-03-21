@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-[![Eunyoung Kim's github stats](https://github-readme-stats.vercel.app/api?username=solaz0824&show_icons=true&theme=vue-dark)
+[![Eunyoung Kim's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=solaz0824&show_icons=true&theme=vue-dark)
 ](https://github.com/solaz0824/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solaz0824&layout=compact)](https://github.com/solaz0824/github-readme-stats)
-  
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=solaz0824&layout=compact)](https://github.com/solaz0824/github-readme-stats)
 </div>  
